@@ -27,12 +27,12 @@
     }
   
     // Crear submenús anidados bajo "ME"
-    const meSubmenus = {
+    const itemSubmenus = {
       "Item SBO": "https://shipping-bo.adminml.com/sauron/items/MLM2418322848",
       "Nutela": "https://moderations.adminml.com/moderations/nutela/search/",
     };
   
-    for (const [id, url] of Object.entries(meSubmenus)) {
+    for (const [id, url] of Object.entries(itemSubmenus)) {
       chrome.contextMenus.create({
         id: id,
         parentId: "Item ID",
