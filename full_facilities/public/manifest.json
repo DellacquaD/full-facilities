@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "full-facilities",
+    "version": "1.0",
+    "description": "Right-click Full",
+    "permissions": ["contextMenus", "activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
