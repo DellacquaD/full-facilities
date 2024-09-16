@@ -18,41 +18,8 @@ export default function MyForm() {
     };
 
     const handleSubmit = async (e) => {
-        e.preventDefault();
-
-        const newErrors = {
-            nombre: formData.nombre === '',
-            email: !validateEmail(formData.email),
-            telefono: formData.telefono === '',
-            consulta: formData.consulta === '',
-        };
-
-        setErrors(newErrors);
-
-        if (!Object.values(newErrors).some(error => error)) {
-            setLoading(true);
-
-            try {
-                const response = await fetch('https://qusyq2uf12.execute-api.us-east-2.amazonaws.com/prod/sendEmail', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(formData),
-                });
-
-                if (response.ok) {
-                    setFormSent(true); // Muestra el mensaje de éxito
-                    setFormData({ nombre: '', email: '', telefono: '', consulta: '' });
-                } else {
-                    alert('Error al enviar el formulario. Por favor, intenta de nuevo.');
-                }
-            } catch (error) {
-                alert('Error al enviar el formulario. Por favor, intenta de nuevo.');
-            } finally {
-                setLoading(false); // Oculta el indicador de carga
-            }
-        } else {
-            alert('Por favor, completa todos los campos correctamente.');
-        }
+       console.log("hola");
+       
     };
 
     const handleBackToHome = () => {

@@ -62,22 +62,7 @@ const pages = {
                         textDecoration: 'none',
                     }}
                 >
-                    VETTA
-                </Typography>
-                <Typography
-                    variant="h6"
-                    component="span"
-                    sx={{
-                        fontFamily: 'monospace',
-                        fontWeight: 700,
-                        fontSize: '16px',
-                        lineHeight: 1,
-                        letterSpacing: '0',
-                        color: 'white',
-                        verticalAlign: 'super',
-                    }}
-                >
-                    UY
+                    MelFac
                 </Typography>
             </Box>
             <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>

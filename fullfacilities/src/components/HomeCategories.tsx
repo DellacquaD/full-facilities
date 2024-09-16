@@ -128,83 +128,62 @@ export default function TitlebarImageList() {
 
 const itemData = [
     {
-        img: 'https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-        title: 'Mobiliario',
+        img: 'https://maestriasydiplomadostec.blob.core.windows.net/maestriasydiplomados/uploads/parea/imagen/69/AreaTematica-Finanzas.png',
+        title: 'Soluciones Financieras',
         blog: {
             img: [
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1721222204755-669d8056cdb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://maestriasydiplomadostec.blob.core.windows.net/maestriasydiplomados/uploads/parea/imagen/69/AreaTematica-Finanzas.png",
+                "https://maestriasydiplomadostec.blob.core.windows.net/maestriasydiplomados/uploads/parea/imagen/69/AreaTematica-Finanzas.png",
+                "https://maestriasydiplomadostec.blob.core.windows.net/maestriasydiplomados/uploads/parea/imagen/69/AreaTematica-Finanzas.png",
+                "https://maestriasydiplomadostec.blob.core.windows.net/maestriasydiplomados/uploads/parea/imagen/69/AreaTematica-Finanzas.png",
             ],
             paragraph: [
-                "En nuestra categoría de Mobiliario, ofrecemos una amplia gama de productos diseñados para satisfacer las necesidades de cualquier hogar u oficina. Desde elegantes mesas de comedor y cómodas sillas hasta sofisticados armarios y estanterías personalizadas, cada pieza es fabricada con la más alta calidad de madera y atención al detalle. Nuestros muebles no solo aportan funcionalidad, sino que también enriquecen el ambiente con su diseño estético y duradero. Ya sea que busques un estilo clásico o moderno, nuestro mobiliario se adapta a tus gustos y requerimientos específicos.",
-                "En nuestra categoría de Mobiliario, ofrecemos una amplia gama de productos diseñados para satisfacer las necesidades de cualquier hogar u oficina. Desde elegantes mesas de comedor y cómodas sillas hasta sofisticados armarios y estanterías personalizadas, cada pieza es fabricada con la más alta calidad de madera y atención al detalle. Nuestros muebles no solo aportan funcionalidad, sino que también enriquecen el ambiente con su diseño estético y duradero. Ya sea que busques un estilo clásico o moderno, nuestro mobiliario se adapta a tus gustos y requerimientos específicos.",
-                "En nuestra categoría de Mobiliario, ofrecemos una amplia gama de productos diseñados para satisfacer las necesidades de cualquier hogar u oficina. Desde elegantes mesas de comedor y cómodas sillas hasta sofisticados armarios y estanterías personalizadas, cada pieza es fabricada con la más alta calidad de madera y atención al detalle. Nuestros muebles no solo aportan funcionalidad, sino que también enriquecen el ambiente con su diseño estético y duradero. Ya sea que busques un estilo clásico o moderno, nuestro mobiliario se adapta a tus gustos y requerimientos específicos.",
-                "En nuestra categoría de Mobiliario, ofrecemos una amplia gama de productos diseñados para satisfacer las necesidades de cualquier hogar u oficina. Desde elegantes mesas de comedor y cómodas sillas hasta sofisticados armarios y estanterías personalizadas, cada pieza es fabricada con la más alta calidad de madera y atención al detalle. Nuestros muebles no solo aportan funcionalidad, sino que también enriquecen el ambiente con su diseño estético y duradero. Ya sea que busques un estilo clásico o moderno, nuestro mobiliario se adapta a tus gustos y requerimientos específicos."
+                "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed architecto et consequuntur itaque? Earum qui odit nisi in quis eius architecto sunt recusandae, deserunt maxime vitae incidunt consectetur voluptates voluptas!Accusamus, totam deleniti? Esse alias illum maxime reprehenderit nihil. Quod in quas recusandae, distinctio nisi architecto quaerat consequuntur iure eius qui ipsam fuga saepe aut deserunt, aliquam, quibusdam nam cum. Ut totam reprehenderit tempore optio debitis beatae, labore ducimus harum sunt sapiente vero ipsam molestiae corporis quibusdam. Iure provident soluta voluptate ad at accusantium neque aut cupiditate eos iste. Fugit.Saepe ipsum, odio voluptatum hic aliquam maiores eveniet dolores? Dicta id quasi delectus sint harum. Impedit enim dolore ea quasi saepe, veritatis mollitia eveniet omnis officia distinctio, autem repudiandae voluptatem? Illum est maiores atque animi fugit commodi optio quaerat porro recusandae cum? Earum expedita praesentium magni aliquid dolorum deserunt illum quibusdam sit fuga eius eligendi unde, a ducimus sint ex?"
             ]
         },
     },
     {
-        img: 'https://plus.unsplash.com/premium_photo-1684980181655-ab1cf2e31b17?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-        title: 'Kids',
+        img: 'https://cms.ar-racking.com/uploads/2021/03/STOCK-2023.jpg',
+        title: 'Stock y Ventas',
         blog: {
             img: [
-                'https://plus.unsplash.com/premium_photo-1684980181655-ab1cf2e31b17?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-                'https://plus.unsplash.com/premium_photo-1684980181655-ab1cf2e31b17?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-                'https://plus.unsplash.com/premium_photo-1684980181655-ab1cf2e31b17?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-                'https://plus.unsplash.com/premium_photo-1684980181655-ab1cf2e31b17?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-                'https://plus.unsplash.com/premium_photo-1684980181655-ab1cf2e31b17?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-                'https://plus.unsplash.com/premium_photo-1684980181655-ab1cf2e31b17?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+                'https://cms.ar-racking.com/uploads/2021/03/STOCK-2023.jpg',
+                'https://cms.ar-racking.com/uploads/2021/03/STOCK-2023.jpg',
+                'https://cms.ar-racking.com/uploads/2021/03/STOCK-2023.jpg',
+                'https://cms.ar-racking.com/uploads/2021/03/STOCK-2023.jpg',
             ],
             paragraph: [
-                "La categoría Kids está especialmente pensada para crear espacios seguros y divertidos para los más pequeños. Ofrecemos una variedad de muebles y accesorios para habitaciones infantiles, incluyendo camas temáticas, escritorios con almacenamiento integrado y estanterías coloridas. Cada pieza está diseñada pensando en la seguridad y el confort de los niños, utilizando materiales no tóxicos y resistentes. Desde camas con formas de vehículos hasta muebles modulares que crecen con ellos, nuestro objetivo es fomentar un entorno de juego y aprendizaje que también se vea genial."
+                "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed architecto et consequuntur itaque? Earum qui odit nisi in quis eius architecto sunt recusandae, deserunt maxime vitae incidunt consectetur voluptates voluptas!Accusamus, totam deleniti? Esse alias illum maxime reprehenderit nihil. Quod in quas recusandae, distinctio nisi architecto quaerat consequuntur iure eius qui ipsam fuga saepe aut deserunt, aliquam, quibusdam nam cum. Ut totam reprehenderit tempore optio debitis beatae, labore ducimus harum sunt sapiente vero ipsam molestiae corporis quibusdam. Iure provident soluta voluptate ad at accusantium neque aut cupiditate eos iste. Fugit.Saepe ipsum, odio voluptatum hic aliquam maiores eveniet dolores? Dicta id quasi delectus sint harum. Impedit enim dolore ea quasi saepe, veritatis mollitia eveniet omnis officia distinctio, autem repudiandae voluptatem? Illum est maiores atque animi fugit commodi optio quaerat porro recusandae cum? Earum expedita praesentium magni aliquid dolorum deserunt illum quibusdam sit fuga eius eligendi unde, a ducimus sint ex?"
             ]
         }
     },
     {
-        img: 'https://images.unsplash.com/photo-1495130656884-992a9f30d178?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXRlbnNpbGxvcyUyMG1hZGVyYXxlbnwwfHwwfHx8MA%3D%3D',
-        title: 'Home',
+        img: 'https://storage.googleapis.com/twg-content/original_images/sustainability-thumbnail.original_8YExgdc.jpg',
+        title: 'Reclamos, devoluciones y accionables',
         blog: {
             img: [
-                'https://images.unsplash.com/photo-1495130656884-992a9f30d178?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXRlbnNpbGxvcyUyMG1hZGVyYXxlbnwwfHwwfHx8MA%3D%3D',
-                'https://images.unsplash.com/photo-1495130656884-992a9f30d178?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXRlbnNpbGxvcyUyMG1hZGVyYXxlbnwwfHwwfHx8MA%3D%3D',
-                'https://images.unsplash.com/photo-1495130656884-992a9f30d178?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXRlbnNpbGxvcyUyMG1hZGVyYXxlbnwwfHwwfHx8MA%3D%3D',
-                'https://images.unsplash.com/photo-1495130656884-992a9f30d178?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXRlbnNpbGxvcyUyMG1hZGVyYXxlbnwwfHwwfHx8MA%3D%3D',
-                'https://images.unsplash.com/photo-1495130656884-992a9f30d178?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXRlbnNpbGxvcyUyMG1hZGVyYXxlbnwwfHwwfHx8MA%3D%3D',
-                'https://images.unsplash.com/photo-1495130656884-992a9f30d178?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXRlbnNpbGxvcyUyMG1hZGVyYXxlbnwwfHwwfHx8MA%3D%3D',
+                'https://storage.googleapis.com/twg-content/original_images/sustainability-thumbnail.original_8YExgdc.jpg',
+                'https://storage.googleapis.com/twg-content/original_images/sustainability-thumbnail.original_8YExgdc.jpg',
+                'https://storage.googleapis.com/twg-content/original_images/sustainability-thumbnail.original_8YExgdc.jpg',
+                'https://storage.googleapis.com/twg-content/original_images/sustainability-thumbnail.original_8YExgdc.jpg',
             ],
             paragraph: [
-                "En la categoría Home, nos especializamos en soluciones de carpintería para el hogar que combinan estilo y funcionalidad. Aquí encontrarás desde elegantes soluciones de almacenamiento, como armarios empotrados y vestidores, hasta paneles decorativos y revestimientos para paredes. Nuestros productos están diseñados para mejorar la organización y el aspecto de cualquier habitación, integrando tecnología moderna y técnicas de construcción tradicionales. Ya sea para renovar tu cocina, baño o sala de estar, nuestros diseños se adaptan a tus necesidades y estilo de vida."
+                "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed architecto et consequuntur itaque? Earum qui odit nisi in quis eius architecto sunt recusandae, deserunt maxime vitae incidunt consectetur voluptates voluptas!Accusamus, totam deleniti? Esse alias illum maxime reprehenderit nihil. Quod in quas recusandae, distinctio nisi architecto quaerat consequuntur iure eius qui ipsam fuga saepe aut deserunt, aliquam, quibusdam nam cum. Ut totam reprehenderit tempore optio debitis beatae, labore ducimus harum sunt sapiente vero ipsam molestiae corporis quibusdam. Iure provident soluta voluptate ad at accusantium neque aut cupiditate eos iste. Fugit.Saepe ipsum, odio voluptatum hic aliquam maiores eveniet dolores? Dicta id quasi delectus sint harum. Impedit enim dolore ea quasi saepe, veritatis mollitia eveniet omnis officia distinctio, autem repudiandae voluptatem? Illum est maiores atque animi fugit commodi optio quaerat porro recusandae cum? Earum expedita praesentium magni aliquid dolorum deserunt illum quibusdam sit fuga eius eligendi unde, a ducimus sint ex?"
             ]
         }
     },
     {
-        img: 'https://aluminiossardina.es/wp-content/uploads/2021/09/cerramiento-ventanas-abatibles.jpg',
-        title: 'Vidriado',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
+        title: 'Proyecciones, competencia y sugerencias',
         blog: {
             img: [
-                'https://aluminiossardina.es/wp-content/uploads/2021/09/cerramiento-ventanas-abatibles.jpg',
-                'https://aluminiossardina.es/wp-content/uploads/2021/09/cerramiento-ventanas-abatibles.jpg',
-                'https://aluminiossardina.es/wp-content/uploads/2021/09/cerramiento-ventanas-abatibles.jpg',
-                'https://aluminiossardina.es/wp-content/uploads/2021/09/cerramiento-ventanas-abatibles.jpg',
-                'https://aluminiossardina.es/wp-content/uploads/2021/09/cerramiento-ventanas-abatibles.jpg',
-                'https://aluminiossardina.es/wp-content/uploads/2021/09/cerramiento-ventanas-abatibles.jpg',
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
             ],
             paragraph: [
-                "Vidriado es nuestra categoría dedicada a soluciones de carpintería con aplicaciones de vidrio. Ofrecemos una variedad de productos que incluyen puertas corredizas de vidrio, barandillas y mamparas de baño. Estos productos no solo aportan una estética contemporánea y elegante a tus espacios, sino que también permiten una mayor entrada de luz natural, creando ambientes más abiertos y luminosos. Utilizamos vidrio de alta calidad y técnicas avanzadas de instalación para asegurar que cada producto no solo luzca espectacular, sino que también sea seguro y duradero."
+                "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed architecto et consequuntur itaque? Earum qui odit nisi in quis eius architecto sunt recusandae, deserunt maxime vitae incidunt consectetur voluptates voluptas!Accusamus, totam deleniti? Esse alias illum maxime reprehenderit nihil. Quod in quas recusandae, distinctio nisi architecto quaerat consequuntur iure eius qui ipsam fuga saepe aut deserunt, aliquam, quibusdam nam cum. Ut totam reprehenderit tempore optio debitis beatae, labore ducimus harum sunt sapiente vero ipsam molestiae corporis quibusdam. Iure provident soluta voluptate ad at accusantium neque aut cupiditate eos iste. Fugit.Saepe ipsum, odio voluptatum hic aliquam maiores eveniet dolores? Dicta id quasi delectus sint harum. Impedit enim dolore ea quasi saepe, veritatis mollitia eveniet omnis officia distinctio, autem repudiandae voluptatem? Illum est maiores atque animi fugit commodi optio quaerat porro recusandae cum? Earum expedita praesentium magni aliquid dolorum deserunt illum quibusdam sit fuga eius eligendi unde, a ducimus sint ex?"
             ]
         }
     },

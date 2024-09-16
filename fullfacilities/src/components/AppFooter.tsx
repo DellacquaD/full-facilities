@@ -44,23 +44,7 @@ export const AppFooter: FC = (): ReactElement => {
                     alignItems: 'baseline',
                 }}
             >
-                VETTA
-                <Typography
-                    variant="h6"
-                    component="span"
-                    sx={{
-                        fontFamily: 'monospace',
-                        fontWeight: 700,
-                        fontSize: '16px',
-                        lineHeight: 1,
-                        letterSpacing: '0',
-                        color: 'white',
-                        marginLeft: '4px',
-                        verticalAlign: 'super',
-                    }}
-                >
-                    UY
-                </Typography>
+                MelFac
             </Typography>
             <Container style={{ display: "flex", justifyContent: "center" }}>
                 <PinDropIcon sx={{
@@ -81,7 +65,7 @@ export const AppFooter: FC = (): ReactElement => {
 
                     }}
                 >
-                    Luis Batlle Berres 6000
+                    Calle 1234
                 </Typography>
             </Container>
             <Container style={{ display: "flex", justifyContent: "center" }}>
@@ -101,7 +85,7 @@ export const AppFooter: FC = (): ReactElement => {
                         color: 'white',
                     }}
                 >
-                    098 258 098
+                    099 999 999
                 </Typography>
             </Container>
         </Container>
@@ -111,7 +95,7 @@ export const AppFooter: FC = (): ReactElement => {
         textAlign: "center",
         padding: "1rem",
       }}>
-      Combinamos años de experiencia con técnicas modernas para ofrecerte soluciones personalizadas y de alta calidad. Nos especializamos en detalles precisos y acabados impecables, garantizando que cada proyecto, desde muebles a medida hasta renovaciones, supere tus expectativas.
+      Combinamos años de experiencia con técnicas modernas para ofrecerte soluciones personalizadas y de alta calidad.
       </Typography>
       <Container style={{ display: "flex", flexDirection: "row", gap: "1rem", justifyContent: "center" }}>
         <Typography><InstagramIcon sx={{ color: "white"}}/></Typography>

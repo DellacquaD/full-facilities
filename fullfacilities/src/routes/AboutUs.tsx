@@ -6,10 +6,12 @@ import Cards from "../components/Cards";
 export const AboutUs: FC = (): ReactElement => {
 
   const cardInfo = [
-    { title: "Sebastián Conde", text: "Apasionado por el diseño minimalista y la funcionalidad. Sus creaciones son elegantes y atemporales." },
-    { title: "Rodrigo Gimenez", text: "Experto en restauración de antigüedades. Ha devuelto la vida a piezas centenarias con un amor profundo por la historia." },
-    { title: "Carlos Poittevin", text: "Amante de la madera maciza y los detalles intrincados. Sus tallas y grabados son verdaderas obras de arte." },
-    { title: "Santiago Delgado", text: "Especialista en mobiliario personalizado. Cada proyecto es un desafío que aborda con creatividad y precisión." },
+    { title: "Mision", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, doloribus minus, libero quo expedita sequi voluptas repellat distinctio hic consectetur placeat reiciendis et rem fugiat perferendis quibusdam at officia atque." },
+    { title: "Vision", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, doloribus minus, libero quo expedita sequi voluptas repellat distinctio hic consectetur placeat reiciendis et rem fugiat perferendis quibusdam at officia atque." },
+    { title: "Persona 1", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, doloribus minus, libero quo expedita sequi voluptas repellat distinctio hic consectetur placeat reiciendis et rem fugiat perferendis quibusdam at officia atque." },
+    { title: "Persona 2", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, doloribus minus, libero quo expedita sequi voluptas repellat distinctio hic consectetur placeat reiciendis et rem fugiat perferendis quibusdam at officia atque." },
+    { title: "Persona 3", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, doloribus minus, libero quo expedita sequi voluptas repellat distinctio hic consectetur placeat reiciendis et rem fugiat perferendis quibusdam at officia atque." },
+    { title: "Persona 4", text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, doloribus minus, libero quo expedita sequi voluptas repellat distinctio hic consectetur placeat reiciendis et rem fugiat perferendis quibusdam at officia atque." },
   ];
 
   return (
@@ -32,7 +34,10 @@ export const AboutUs: FC = (): ReactElement => {
           fontFamily: "Roboto",
           padding: "3rem",
         }}>
-          Somos más que serruchos y clavos. Somos artesanos que transforman la madera en obras maestras. Cada pieza que sale de nuestro taller lleva consigo la dedicación, la precisión y el amor que solo un verdadero amante de la madera puede ofrecer.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic doloremque quibusdam ipsam odio, dolorem quisquam enim officiis, voluptatibus sit, ad est et beatae quae at accusamus laborum. Odit, nesciunt molestias!
+          <br></br>
+          <br></br>
+          Libero accusantium molestiae dolorum incidunt perspiciatis? Quibusdam eius architecto quos tempora, animi impedit a nesciunt deserunt repudiandae praesentium maxime dolorem voluptatum autem rem soluta aliquid. Incidunt consectetur quasi hic similique.
         </Typography>
         </Container>
         <Container sx={{
