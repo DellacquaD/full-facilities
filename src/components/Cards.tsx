@@ -3,6 +3,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import CardActionArea from '@mui/material/CardActionArea';
+import {Container} from "@mui/material";
 
 // Define la interfaz de las props
 interface CardInfo {
@@ -16,7 +17,16 @@ interface CardsProps {
 
 const Cards: FC<CardsProps> = ({ cardInfo }) => {
   return (
-    <>
+    <Container sx={{
+      display: "grid",
+      gridTemplateColumns: {
+        sx: "repeat(1, 1fr)",
+        md: "repeat(2, 1fr)"
+      },
+      gridGap: "1rem",
+      alignItems: 'center',
+      justifyItems: 'center',
+    }}>
       {cardInfo.map((info, index) => (
         <Card key={index} sx={{ maxWidth: 345, boxShadow: '0 0 20px 0 rgba(0,0,0,0.6)', borderRadius: '10px' }}>
           <CardActionArea>
@@ -32,7 +42,7 @@ const Cards: FC<CardsProps> = ({ cardInfo }) => {
           </CardActionArea>
         </Card>
       ))}
-    </>
+    </Container>
   );
 }
 

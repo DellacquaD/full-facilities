@@ -42,7 +42,6 @@ export const AboutUs: FC = (): ReactElement => {
         </Container>
         <Container sx={{
           display: "grid",
-          gridTemplateColumns: "repeat(2, 1fr)",
           gridGap: "2rem",
           justifyItems: "center",
         }}>

@@ -173,14 +173,14 @@ const itemData = [
         }
     },
     {
-        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
+        img: 'https://cjfconsultores.com/wp-content/uploads/2019/03/cjf-proyeccion-economica-y-financiera.jpg',
         title: 'Proyecciones, competencia y sugerencias',
         blog: {
             img: [
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-lYHf-SUhE6asBkOaPIJOEJUIlsdSwSqwtOmlTksVsdU0nke-p5pmf6PerAtohIU2bs&usqp=CAU',
+                'https://cjfconsultores.com/wp-content/uploads/2019/03/cjf-proyeccion-economica-y-financiera.jpg',
+                'https://cjfconsultores.com/wp-content/uploads/2019/03/cjf-proyeccion-economica-y-financiera.jpg',
+                'https://cjfconsultores.com/wp-content/uploads/2019/03/cjf-proyeccion-economica-y-financiera.jpg',
+                'https://cjfconsultores.com/wp-content/uploads/2019/03/cjf-proyeccion-economica-y-financiera.jpg',
             ],
             paragraph: [
                 "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed architecto et consequuntur itaque? Earum qui odit nisi in quis eius architecto sunt recusandae, deserunt maxime vitae incidunt consectetur voluptates voluptas!Accusamus, totam deleniti? Esse alias illum maxime reprehenderit nihil. Quod in quas recusandae, distinctio nisi architecto quaerat consequuntur iure eius qui ipsam fuga saepe aut deserunt, aliquam, quibusdam nam cum. Ut totam reprehenderit tempore optio debitis beatae, labore ducimus harum sunt sapiente vero ipsam molestiae corporis quibusdam. Iure provident soluta voluptate ad at accusantium neque aut cupiditate eos iste. Fugit.Saepe ipsum, odio voluptatum hic aliquam maiores eveniet dolores? Dicta id quasi delectus sint harum. Impedit enim dolore ea quasi saepe, veritatis mollitia eveniet omnis officia distinctio, autem repudiandae voluptatem? Illum est maiores atque animi fugit commodi optio quaerat porro recusandae cum? Earum expedita praesentium magni aliquid dolorum deserunt illum quibusdam sit fuga eius eligendi unde, a ducimus sint ex?"
