@@ -41,7 +41,7 @@
     "eslint-plugin-react-refresh": "^0.4.7",
     "gh-pages": "^6.1.1",
     "typescript": "^5.2.2",
-    "vite": "^5.3.4",
+    "vite": "^5.4.6",
     "vite-plugin-html": "^3.2.2",
     "vite-plugin-manifest": "^0.0.1"
   }
