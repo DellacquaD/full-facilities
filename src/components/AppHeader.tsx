@@ -54,7 +54,7 @@ const pages = {
                     href="/"
                     sx={{
                         mr: 0,
-                        fontFamily: 'monospace',
+                        fontFamily: 'Roboto',
                         fontWeight: 700,
                         fontSize: '40px',
                         letterSpacing: '.4rem',
@@ -99,7 +99,7 @@ const pages = {
                         <Button
                             key={path}
                             onClick={() => navigate(path)}
-                            sx={{ my: 2, display: 'block', fontWeight: 500, fontSize: '15px', fontFamily: 'monospace', letterSpacing: '.1rem', textDecoration: 'none', color: 'black' }}
+                            sx={{ my: 2, display: 'block', fontWeight: 500, fontSize: '15px', fontFamily: 'Roboto', letterSpacing: '.1rem', textDecoration: 'none', color: 'black' }}
                         >
                             {page}
                             </Button>
@@ -112,7 +112,7 @@ const pages = {
                 <Button
                 key={path}
                 onClick={() => navigate(path)}
-                sx={{ my: 2, color: 'white', display: 'block', fontWeight: 500, fontSize: '20px', fontFamily: 'monospace', letterSpacing: '.1rem'}}
+                sx={{ my: 2, color: 'white', display: 'block', fontWeight: 500, fontSize: '20px', fontFamily: 'Roboto', letterSpacing: '.1rem'}}
                 >
                 {page}
                 </Button>

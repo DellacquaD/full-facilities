@@ -1,3 +1,4 @@
+import React from 'react';
 import { FC, ReactElement } from "react";
 import { Box, Container, Typography } from "@mui/material";
 import PinDropIcon from '@mui/icons-material/PinDrop';
@@ -34,7 +35,7 @@ export const AppFooter: FC = (): ReactElement => {
                 component="a"
                 href="/"
                 sx={{
-                    fontFamily: 'monospace',
+                    fontFamily: 'Roboto',
                     fontWeight: 700,
                     fontSize: '25px',
                     letterSpacing: '.4rem',
@@ -57,7 +58,7 @@ export const AppFooter: FC = (): ReactElement => {
                     component="a"
                     href="https://www.google.com/maps/place/5P5R%2BRCX,+Av.+Luis+Batlle+Berres+6000,+12600+Montevideo,+Departamento+de+Montevideo/data=!4m2!3m1!1s0x95a1d450230ae329:0xbc313d638e77d282?sa=X&ved=1t:242&ictx=111"
                     sx={{
-                      fontFamily: 'monospace',
+                      fontFamily: 'Roboto',
                       textDecoration:"none",
                         fontWeight: 500,
                         fontSize: '15px',
@@ -78,7 +79,7 @@ export const AppFooter: FC = (): ReactElement => {
                     flexWrap="wrap"
                     component="a"
                     sx={{
-                      fontFamily: 'monospace',
+                      fontFamily: 'Roboto',
                       fontWeight: 500,
                       textDecoration:"none",
                         fontSize: '15px',

@@ -1,3 +1,4 @@
+import React from 'react';
 import { FC, ReactElement } from "react";
 import { Box, Typography, Container } from "@mui/material";
 import Cards from "../components/Cards";
